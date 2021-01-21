@@ -27,6 +27,7 @@
 
 .banner-container{
     background-image: url("../images/main-image.jpg");
+    background-color: rgba(0, 0, 0, 0.2);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -44,14 +45,15 @@
     padding-top: 250px;
 }
 
-.callout-container h3{
-    color: #fafafa;
-    font-family: "Roboto", sans-serif;
-}
 .callout-container p{
     font-family: "Roboto", sans-serif;
+    font-size: 16px;
     color:#fafafa;
     display: block;
+}
+
+.btn-callout{
+    background-color: #f4f2f2;
 }
 
 
@@ -72,4 +74,10 @@ footer{
     font-family: "Roboto", sans-serif;
     display: block;
     margin-right: 45px;
+}
+
+.social-links li a{
+    text-decoration: none;
+    color: black;
+    display: block;
 }
