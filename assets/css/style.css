@@ -13,17 +13,14 @@
     font-size: 40px;
 }
 
-.navbar-brand li{
+.nav-link{
     font-family: "Roboto", sans-serif;
     color: black;
-    transition: all .35s ease-in;
-    -moz-transition: all .35s ease-in;
-    -webkit-transition: all .35s ease-in;
-    -o-transition: all .35s ease-in;
 }
 
-.navbar-brand li:hover{
-    color: #f41212;
+.nav-link:hover{
+    text-decoration: underline;
+    text-decoration-color: #7496ca;
 }
 
 .navbar{
@@ -71,7 +68,28 @@
 }
 
 .btn-callout:hover{
-    background-color: #ee3e3e;
+    background-color: #7496ca;
+}
+
+/*----------------Contact Me---------------*/
+
+.contact-container{
+    float: right;
+    padding-top: 250px;
+    padding-left: 50px;
+}
+
+
+/*-----------------Gallery------------*/
+
+
+.gallery-container{
+    float: right;
+}
+.gallery-item{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
 }
 
 
@@ -104,24 +122,26 @@ footer{
 }
 
 .blog-link:hover{
-    color: #ee3e3e;
+    color: #7496ca;
 
 }
 
-.social-links li a i{
+.social-links li a{
     text-decoration: none;
     color: black;
     display: block;
-    float: right;
     font-size: 30px;
     letter-spacing: 10px;
     padding-top: 0px;
     padding-left: 10px;
     padding-right: 10px;
-    border-radius: 50%;
+    transition: all .35s ease-in;
+    -moz-transition: all .35s ease-in;
+    -webkit-transition: all .35s ease-in;
+    -o-transition: all .35s ease-in;
 }
 
 .social-links li a:hover{
-    color: #ee3e3e;
+    color: #7496ca;
 }
 
