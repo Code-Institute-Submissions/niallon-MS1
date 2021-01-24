@@ -76,7 +76,14 @@
 .contact-container{
     float: right;
     padding-top: 250px;
-    padding-left: 50px;
+}
+
+.contact-me{
+    
+}
+
+.contact-item{
+    padding: 10px;
 }
 
 
@@ -89,7 +96,7 @@
 .gallery-item{
     width: 250px;
     height: 250px;
-    display: inline-block;
+    display: inline;
 }
 
 
