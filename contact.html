@@ -17,21 +17,26 @@
 
 <header>
         <!------NavBar-->
-        <!-----------DO NOT FORGET TO PUT NAV AS FIXEDTOP-->
         <nav class="navbar navbar-light bg-light navbar-expand-sm fixed-top">
             <!------Logo-->
             <a href="index.html" class="navbar-brand">niallon</a>
             <!---End of Logo-->
-            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle
-            navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
+
+
+            <!---------------FIX TOGGLER!!!!!!!-->
+
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item mr-2 active"><a class="nav-link" href="index.html"><strong>Home</strong></a></li>
-                    <li class="nav-item mr-2 active"><a class="nav-link" href="contact.html"><strong>Contact Me</strong></a></li>
-                    <li class="nav-item mr-2 active"><a class="nav-link" href="gallery.html"><strong>Gallery</strong></a></li>
+                    <li class="nav-item mr-2 active"><a class="nav-link" href="index.html"><strong>Home</strong></a>
+                    </li>
+                    <li class="nav-item mr-2 active"><a class="nav-link" href="contact.html"><strong>Contact
+                                Me</strong></a></li>
+                    <li class="nav-item mr-2 active"><a class="nav-link"
+                            href="gallery.html"><strong>Gallery</strong></a></li>
                 </ul>
             </div>
         </nav>
@@ -45,7 +50,9 @@
                 <h4 class="contact-heading">Get in Touch...</h4>
                 <input type="text" class="contact-item" id="name" name="name" placeholder="Name" size="20" required>
                 <input type="text" class="contact-item" id="subject" name="subject" placeholder="Subject e.g Request.." size="20" required>
-                <input type="text" class="contact-item" id="message" name="message" placeholder="Message..."  size="20" required>
+                <input type="text" class="message-box" id="message" name="message" placeholder="Message..."  size="20" required>
+                <button class="btn btn-light btn-contact">Send!</button>
+
 
             </form>
             </div>
@@ -100,13 +107,7 @@
 
     </footer>
 
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 </body>
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
-
 </html>
