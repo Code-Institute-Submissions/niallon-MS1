@@ -148,7 +148,7 @@ input{
 
 .video-link a{
     color: #fafafa;
-    text-decoration: underline;
+    text-decoration: none;
     transition: all .35s ease-in;
     -moz-transition: all .35s ease-in;
     -webkit-transition: all .35s ease-in;
@@ -180,7 +180,7 @@ footer{
 
 .blog-link{
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
     transition: all .35s ease-in;
     -moz-transition: all .35s ease-in;
     -webkit-transition: all .35s ease-in;
@@ -189,6 +189,7 @@ footer{
 
 .blog-link:hover{
     color: #7496ca;
+    text-decoration: none;
 
 }
 
@@ -210,4 +211,5 @@ footer{
 .social-links li a:hover{
     color: #7496ca;
 }
+
 
