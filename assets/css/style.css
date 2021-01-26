@@ -127,22 +127,42 @@ input{
 .gallery-container{
     float: right;
     margin-right: 5px;
-}
-.gallery-item{
-    width: 250px;
-    height: 250px;
-    display: inline;
+    padding-top: 150px;
 }
 
-.image-content{
-    float: right;
-    display: inline;
+.video-content{
+    float:right;
+    max-width: 600px;
 }
 
-img{
-    display: inline;
+.video-heading{
+    font-family: "Roboto", sans-serif;
+    color: #fafafa;
+    padding-bottom: 10px;
 }
 
+.video-item{
+    padding-bottom: 25px;
+}
+
+.video-link{
+    font-family: "Roboto", sans-serif;
+    color: #fafafa;
+    padding-top: 10px;
+}
+
+.video-link a{
+    color: #fafafa;
+    text-decoration: underline;
+    transition: all .35s ease-in;
+    -moz-transition: all .35s ease-in;
+    -webkit-transition: all .35s ease-in;
+    -o-transition: all .35s ease-in;
+}
+
+.video-link a:hover{
+    color: #7496ca;
+}
 
 /*---------------Footer-----------*/
 
