@@ -142,6 +142,7 @@ input{
 
 .video-item{
     padding-bottom: 25px;
+    border: none;
 }
 
 .video-link{
@@ -162,6 +163,7 @@ input{
 .video-link a:hover{
     color: #7496ca;
 }
+
 
 /*---------------Footer-----------*/
 
@@ -228,8 +230,9 @@ footer{
         text-align: center;
     }
 
-    iframe{
+    .video-item{
         text-align: center;
+        width: 260px;
     }
 
 

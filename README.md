@@ -105,6 +105,53 @@ used to add a responsive navbar to the mobile screen of the site.
 - [Git](https://git-scm.com/)- By using the Gitpod terminal to create,  commit and push changes to GitHub.
 - [GitHub](https://github.com/)- Used to store project as a repository and incorporate changes made from Git.
 
+## Testing
+---
+- All HTML code was validated by [W3C Validator](https://validator.w3.org/) 
+- All CSS stylings were validated by [W3C CSS Validator](https://validator.w3.org/) 
+
+### Testing User Stories in regards to User Design (UX) Section:
+
+#### First Time User:
+When using the site for the first time, I want to be able to see/hear bands material, their information and their social media
+links
+- The homepage of the site shows clear visual cues in the navbar to guide the user to the 
+bands material, the "Listen Here" page the offers three of the most popular videos by the band 
+with an option to hear more along with a direct Youtube Link located on the footer across 
+all three pages of the site.
+- The homepage introduces a few lines about the band accompanied by the option to sign up for album 
+release information.
+- All three pages have direct links shown by well known icons to all of the bands social media 
+accounts.
+
+#### Returning User:
+Upon returning to the site, I want to be able to contact the band if I want to book them, 
+be able to listen to the bands music and see any promotions or news they have.
+
+- The homepage of the site offers a Contact Me link located clearly on the navbar which will bring the user to a form 
+and explain to them what they nees to do, the form cannot be submitted without content in all fields avoiding 
+unnecessary traffic for the band and avoids sending an incomplete message for the user. 
+- The homepage itself acts as a space for band updates, currently as the band is not taking bookings due 
+to the global pandemic, this is clearly indicated and avoids disappointment for a user wishing to book 
+in the near future. There is plenty of space to adjust or add new announcements on the page to this area 
+and will remain one of the first things a user will see.
+
+#### Frequent User:
+A frequent visitor to the site would want to see regular band updates such as album releases, merchandise or concert promotions along will full 
+access to the bands music library.
+- As explained above, for frequent users, the homepage will act as an announcement page to alert 
+frequent visitors of any upcoming news or events.
+- They will also have access to the bands full music library via the Listen Here link.
+
+
+
+
+
+
+
+
+
+
 
 
 
