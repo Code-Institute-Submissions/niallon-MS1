@@ -37,7 +37,7 @@ traded off in favour of generating a larger fanbase for the future.
 #### First Time Visitor:
 - When visiting the site for the first time, I first and foremost want to be able to see/hear the band's material, and access it easily.
 - I want to see some information about the band, their history, where they are based, are they available for bookings?
-- As a social media user, who spends a great deal of time on these apps, I want to be able to access the bands social media to follow/support
+- As a social media user, who spends a great deal of time on these apps, I want to be able to access the bands social media to follow and support
 them.
 
 
@@ -54,8 +54,8 @@ them.
 #### Design
 - Imagery <br>
 The banner image for the site is the main focal point for the user, I chose this image as I 
-felt it described the bands aesthetic best. The image itself is striking even though it is in black and white,
-the different shades and tones make it both striking and pleasing to the eye. 
+felt it described the bands aesthetic best. The image itself is striking even though it is in black and white and
+the different shades and tones make it pleasing to the eye. 
 
 - Colour Scheme <br>
 The colour scheme for this site was matched to the tones and shades in the main banner image. The 
@@ -95,7 +95,7 @@ making the overall user experience to be enjoyable and familiar.
 #### Frameworks, Libraries and Programs Used:
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/)- Used to create wireframes that were essential to the site design along with avoiding "Scope Creep".
 The wireframes kept a clear and concise map to the site making it easier to not introduce new elements/ design/ or pages without proper planning.
-- [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/)- Used in ensuring all pages were responsive 
+- [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/)- This framework was used in ensuring all pages were responsive 
 across all devices.
 - [Google Fonts](https://fonts.google.com/)- Used to choose attractive and familiar fonts used on this site.
 - [Font Awesome](https://fontawesome.com/)- Used to add well known icons for links throughout the site,
