@@ -84,6 +84,10 @@
     margin-right: 0;
 }
 
+.contact-form{
+    margin-right: 100px;
+}
+
 
 input{
     margin-bottom: 10px;
@@ -132,6 +136,8 @@ input{
 .video-content{
     float:right;
     max-width: 600px;
+    display: block;
+    
 }
 
 .video-heading{
@@ -225,8 +231,18 @@ footer{
     .callout-container{
         text-align: center;
     }
+
+    .contact-form{
+        margin-right: 15px;
+        text-align: center;
+        padding-left: 35px;
+    }
    
     .contact-container{
+        text-align: center;
+    }
+
+    .video-content{
         text-align: center;
     }
 

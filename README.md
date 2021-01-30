@@ -129,7 +129,7 @@ Upon returning to the site, I want to be able to contact the band if I want to b
 be able to listen to the bands music and see any promotions or news they have.
 
 - The homepage of the site offers a Contact Me link located clearly on the navbar which will bring the user to a form 
-and explain to them what they nees to do, the form cannot be submitted without content in all fields avoiding 
+and explain to them what they need to do, the form cannot be submitted without content in all fields avoiding 
 unnecessary traffic for the band and avoids sending an incomplete message for the user. 
 - The homepage itself acts as a space for band updates, currently as the band is not taking bookings due 
 to the global pandemic, this is clearly indicated and avoids disappointment for a user wishing to book 
@@ -142,6 +142,12 @@ access to the bands music library.
 - As explained above, for frequent users, the homepage will act as an announcement page to alert 
 frequent visitors of any upcoming news or events.
 - They will also have access to the bands full music library via the Listen Here link.
+
+### Further Testing
+- The site was tested on Google Chrome, Microsoft Edge and Internet Explorer browsers.
+- Testing was performed on a wide range of devices such as Samsung Galaxy/iPhone8 phones, tablet screens and Desktop screens.
+- Friends and family memebers were asked to test the site to ensure a full range of screens were reached and that all links performed correctly.
+
 
 
 
