@@ -235,6 +235,13 @@ footer{
         width: 260px;
     }
 
+    .list-inline-item:not(:last-child) {
+    margin-right: 0px;
+}
+    
+    .fa {
+        font-size: 20px;
+    }
 
 }
 
