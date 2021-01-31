@@ -148,6 +148,56 @@ frequent visitors of any upcoming news or events.
 - Testing was performed on a wide range of devices such as Samsung Galaxy/iPhone8 phones, tablet screens and Desktop screens.
 - Friends and family memebers were asked to test the site to ensure a full range of screens were reached and that all links performed correctly.
 
+### Known Bugs:
+- On the Internet Explorer Browsers, the content on "Contact" is pushed to the far-right and the video content is displayed inline on "Listen Here Page".
+- On Suface Duo screen, content is pushed to the right which distorts the flow of the website.
+
+## Deployment:
+---
+### GitHub Pages
+This project was deployed to GitHub Pages by completing the following steps:
+1. Log into [GitHub](https://github.com/) and enter login details.
+2. Select the repository you wish to deploy and click the settings option located last in the list on the top
+left of the screen.
+3. Scroll down to GitHub Pages section.
+4. Under Source, use dropdown menu showing "none" and select "master".
+5. The page will refresh automatically.
+6. Again scroll down to Github Pages section and a link will be available to your site.
+
+
+
+### Forking the GitHub Repository:
+This is done by making a copy of the original repository that can be amended
+without changing the original.
+1. Log into [GitHub](https://github.com/) and enter login details.
+2. Select the repository you wish to fork.
+3. The Fork button is located as the last of three options on the top right of the screen.
+4. A copy should then be located in your account.
+
+## Credits:
+----
+### Content:
+- All content was written by the developer.
+
+### Code:
+- Bootstrap 4 library was used and adapted to suit the needs of the site.
+- Code Institute lessons again were used and adapted specifically "Bootstrapping your Next Big Idea" and
+"Putting it all Together".
+
+### Media:
+- All images, videos and social media links belong to niallon official and were used with their permission.
+
+### Acknowledgements:
+- My mentor for his valuable guidance.
+- The tutors at Code Institute for their support.
+
+
+
+
+
+
+
+
 
 
 
