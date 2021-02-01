@@ -1,6 +1,7 @@
 # niallon Band Webpage
 ----------
-![various devices](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=469c7c96-ded0-4b5e-88e1-ece9ade9f19f)
+<img src="assets/images/mockup/Screenshot (35).png">
+
 ## Idea
 ---
 The main aim of this webpage is to branch out further from social media, where different content can be found in different areas can now 
