@@ -1,6 +1,6 @@
 # niallon Band Webpage
 ----------
-<img src="assets/images/mockup/Screenshot (35).png">
+<img src="assets/images/mockup/Screenshot (35).png" alt="various device view">
 
 ## Idea
 ---
@@ -28,17 +28,17 @@ Further down the line depending on success levels, band merchandise could also b
 
 ### Wireframes
 - Home Page
-![Homepage Desktop View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=d347d446-6347-4ac2-b6b6-26ec2c05c506)
+<img src="assets/images/wireframes/Home-Desktop.png" alt="Homepage Desktop View">
 The Desktop screen was designed to show as much of the banner image as possible therefore,
 all content was positioned to the right of the page.
 
 - Contact Page
-![Contact Page in Tablet View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=c0b5db43-866f-4507-b170-af43c79d3bcc)
+<img src="assets/images/wireframes/Contact-Tablet.png" alt="Contact Tablet View">
 The same idea applies here, the tablet screen size is just enough to see the full banner 
 and so, content was positioned to the right of the screen.
 
 - Listen Here Page
-![Listen Here Page in Mobile View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=f564f2eb-3a46-43bd-adb6-71ff8c197ba1)
+<img src="assets/images/wireframes/ListenHere-Mobile.png" alt="Listen Here Mobile View">
 Mobile screens do not allow full image to be displayed but it does feature as the 
 background image whilst showcasing the band's videos which are higher in importance and 
 so take the centre of the screen.
