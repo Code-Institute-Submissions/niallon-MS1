@@ -166,6 +166,8 @@ frequent visitors of any upcoming news or events.
 ### Known Bugs:
 - On the Internet Explorer Browsers, the content on "Contact" is pushed to the far-right and the video content is displayed inline on "Listen Here Page".
 - On Suface Duo screen, content is pushed to the right which distorts the flow of the website.
+- On mobile view, the modal form stretches outside the modal itself, attempted to resize both normally and in 
+media query.
 
 ## Deployment:
 ---

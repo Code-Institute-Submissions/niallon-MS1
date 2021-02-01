@@ -230,7 +230,7 @@ footer{
 }
 
 .modal-form{
-    padding-right: 70px;
+    padding-right: 50px;
 }
 
 /*-------Media Queries----*/
@@ -267,6 +267,7 @@ footer{
     .fa {
         font-size: 20px;
     }
+
 
 }
 
