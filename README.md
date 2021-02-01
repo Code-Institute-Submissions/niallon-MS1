@@ -1,32 +1,46 @@
 # niallon Band Webpage
 ----------
-This is the main webpage for the band niallon, its purpose is to generate a new fanbase whilst connecting with existing fans and  to showcase
-their material.
-
-## User Experience (UX)
-----------
-### Strategy
-
-The main aim of this webpage is to branch out further from social media pages, where different content can be found in different areas can now 
-be found in one convenient place with access to all areas at the touch of a button.
+![various devices](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=469c7c96-ded0-4b5e-88e1-ece9ade9f19f)
+## Idea
+---
+The main aim of this webpage is to branch out further from social media, where different content can be found in different areas can now 
+be found in one convenient place at the touch of a button.
 In these uncertain times, bookings/concerts etc are not an option and could generate unnecessary pressure on the band itself, as such this option was
 traded off in favour of generating a larger fanbase for the future.
 
-### Wireframe Links
+### Motivation
+I chose this band specifically as I have been a fan since the beginning. They had no site but plenty of material 
+to work from. As I am familiar with the band, I had an idea about who they were, what their style is 
+and the personal connection really helped with the design element.
+
+### Future Planning
+As previously explained, the current primary focus of this site is to increase their fanbase. 
+Due to the pandemic, I found adding a booking page to be redundant as live shows would not be possible 
+for the forseeable future, with this in mind content and fan connection became the goal.
+For the future, extra pages can be added for testimonials, a form can be added to the contact page specifically 
+for bookings and extra media can be added to the "Listen Here" page to show live show previews.
+Further down the line depending on success levels, band merchandise could also be added.
+
+
+## User Experience (UX)
+----------
+
+### Wireframes
 - Home Page
-1. Mobile - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=b75eb2ff-7333-4b6e-bb4f-d4f740dc1403)
-2. Tablet - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=646d05cf-65c5-46fc-8767-fe66192bfbbd)
-3. Desktop -[View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=7dff8ee5-2998-4b37-84e5-29180c155564)
+![Homepage Desktop View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=d347d446-6347-4ac2-b6b6-26ec2c05c506)
+The Desktop screen was designed to show as much of the banner image as possible therefore,
+all content was positioned to the right of the page.
 
 - Contact Page
-1. Mobile - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=204df046-fe4c-4109-ba20-6e807cc8db1d)
-2. Tablet - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=3633bd79-a08e-4192-80af-97194605cab4)
-3. Desktop - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=47e761ab-3871-4b2f-9b83-e7814a6c7ba7)
+![Contact Page in Tablet View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=c0b5db43-866f-4507-b170-af43c79d3bcc)
+The same idea applies here, the tablet screen size is just enough to see the full banner 
+and so, content was positioned to the right of the screen.
 
 - Listen Here Page
-1. Mobile - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=b2e77157-44a3-405f-bb50-ea30333a07ad)
-2. Tablet - [View](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=1789a332-3ee4-465f-a063-07bc6e8bf1f1)
-3. Desktop - [text](https://f559fa4b-916e-4f6e-8ea9-e2f8381a4664.ws-eu03.gitpod.io/files/download/?id=2bb24f9c-4840-4918-9397-762234b89ba8)
+![Listen Here Page in Mobile View](https://d2944e0e-cec3-4fe2-9a47-65c14d8ca0ed.ws-eu03.gitpod.io/files/download/?id=f564f2eb-3a46-43bd-adb6-71ff8c197ba1)
+Mobile screens do not allow full image to be displayed but it does feature as the 
+background image whilst showcasing the band's videos which are higher in importance and 
+so take the centre of the screen.
 
 
 
