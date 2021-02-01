@@ -224,6 +224,15 @@ footer{
     color: #7496ca;
 }
 
+.modal{
+    position: absolute;
+    left: 50%;
+}
+
+.modal-form{
+    padding-right: 70px;
+}
+
 /*-------Media Queries----*/
 
 @media screen and (max-width: 1393px){
